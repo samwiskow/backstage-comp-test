@@ -7,7 +7,7 @@ metadata:
     system: public-websites
   annotations:
     example.com/service-discovery: artistweb
-    #circleci.com/project-slug: github/samwiskow/backstage-comp-test
+    #circleci.com/project-slug: samwiskow/backstage-comp-test
     github.com/project-slug: samwiskow/backstage-comp-test
   tags:
     - java
@@ -17,5 +17,5 @@ metadata:
       icon: dashboard
 spec:
   type: service
-  lifecycle: production
+  lifecycle: experimental
   owner: samwiskow
