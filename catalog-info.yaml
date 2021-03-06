@@ -18,4 +18,4 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: samjwiskow@me.com
+  owner: user:samwiskow
