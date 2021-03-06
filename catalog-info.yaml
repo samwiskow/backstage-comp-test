@@ -8,7 +8,7 @@ metadata:
   annotations:
     example.com/service-discovery: artistweb
     circleci.com/project-slug: github/samwiskow/backstage-comp-test
-    github.com/project-slug: github.com/samwiskow/backstage-comp-test/blob/main/README.md
+    github.com/project-slug: github.com/samwiskow/backstage-comp-test
   tags:
     - java
   links:
