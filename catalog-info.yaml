@@ -16,6 +16,6 @@ metadata:
       title: Admin Dashboard
       icon: dashboard
 spec:
-  type: website
+  type: service
   lifecycle: production
   owner: samwiskow
